@@ -4,15 +4,16 @@ sidebar_position: 3
 
 # DELETE ROUND
 
-To delete a round in the event list, click icon that is highlighted.
+To delete a round from the events list, click slider button on the right side of the settings button.
 
-![1](/img/group-create-1.png)
+![1](/img/updatevent.png)
 
 The list of rounds that already exist in the event is displayed, if there are no rounds the list returns empty.
-To delete a round click icon that is highlighted.
+To delete a round from the events list, click on the slider button on the right side of the settings button.
 
-![1](/img/round-delete-bt.png)
+![1](/img/novoround.png)
 
 To delete the round form click "Confirm" button. The deleted round is removed from the list.
 
-![1](/img/round-delete.PNG)
+![1](/img/apagaround.png)
+

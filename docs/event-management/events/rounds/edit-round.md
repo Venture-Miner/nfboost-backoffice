@@ -4,15 +4,16 @@ sidebar_position: 2
 
 # UPDATE ROUND
 
-To update a round, in the event list, click icon that is highlighted.
+To update a round, in the events list, click sliders icon next to the settings icon.
 
-![1](/img/group-create-1.png)
+![1](/img/updatevent.png)
 
 The list of rounds that already exist in the event is displayed, if there are no rounds the list returns empty.
-To update a round click on the icon that is highlighted.
+To update a round, click settings icon next to the sliders icon.
 
-![1](/img/round-update-bt.png)
+![1](/img/novoround.png)
 
 Change the round form and click "Update". The changed group is displayed in the list.
 
-![1](/img/round-update.png)
+![1](/img/novoeditround.png)
+
