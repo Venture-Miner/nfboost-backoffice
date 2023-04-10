@@ -9,7 +9,7 @@ const config = {
   title: 'NFBoost Backoffice',
   tagline: 'Dinosaurs are cool',
   url: 'https://brazil-venture-studio.github.io',
-  baseUrl: '/nfboost-backoffice-manual/',
+  baseUrl: '/nfboost-backoffice/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Brazil-Venture-Studio', // Usually your GitHub org/user name.
-  projectName: 'nfboost-backoffice-manual/intro', // Usually your repo name.
+  projectName: 'nfboost-backoffice/intro', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -63,7 +63,7 @@ const config = {
             label: 'Backoffice Manual',
           },
           {
-            href: 'https://github.com/Brazil-Venture-Studio/nfboost-backoffice-manual/intro',
+            href: 'https://github.com/Brazil-Venture-Studio/nfboost-backoffice/intro',
             label: 'GitHub',
             position: 'right',
           },
