@@ -1,8 +1,6 @@
 ---
-sidebar_position: 1
+sidebar_position: 5
 ---
-
-# NFTs INFORMATION
 
 ## REGISTER NFT
 
@@ -17,4 +15,3 @@ sidebar_position: 1
 ## PUBLISH 
 
 ## RECALL
-
