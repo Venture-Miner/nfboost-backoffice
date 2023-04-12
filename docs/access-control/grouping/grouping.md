@@ -2,4 +2,4 @@
 sidebar_position: 3
 ---
 
-# DELETE NFT
+# NEW SPORT GROUPING

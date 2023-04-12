@@ -4,9 +4,7 @@ sidebar_position: 2
 
 # UPDATE ROLE
 
-To update a role, the user must go to the "Access Control" menu and select the "Role" option.
-
-A screen with all roles already registered will be displayed. To register update a role, click "Settings" button next to "Trash" icon. 
+To update a role, click "Settings" button next to "Trash" icon. 
 
 ![1](/img/registernovarole.png)
 
