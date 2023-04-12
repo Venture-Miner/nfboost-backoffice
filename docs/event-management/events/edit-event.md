@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # UPDATE EVENT
 
-To edit an already registered event, in the list of events click settings button next to the right of the sliders button
+To edit an already registered event, in the list of events click "Settings" button next to the right of the sliders button
 
 ![1](/img/updatevent.png)
 
