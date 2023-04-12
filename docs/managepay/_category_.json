@@ -1,6 +1,6 @@
 {
-  "label": "PLAYER",
-  "position": 3 ,
+  "label": "MANAGE PAYMENTS",
+  "position": 7 ,
   "link": {
     "type": "generated-index",
   }
