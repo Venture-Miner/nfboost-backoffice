@@ -8,9 +8,9 @@ A withdrawal from the Admin wallet is to perform a crypto transfer transaction f
 
 For this transaction it is possible to define the fee that will be paid, thus also defining the speed of the transaction.
 
-To withdraw, click on the button next to the "Withdrawal" balance.
+To withdraw, click on the button above the "Smart Contract" topic
 
-![1](/img/bt-wallet-withdraw.png)
+![1](/img/contractsmart.png)
 
 Set the fields:
 
@@ -20,4 +20,4 @@ Set the fields:
 
 - Priority: the fee that will be paid to carry out the transaction.
 
-![1](/img/wallet-withdraw.png)
+![1](/img/endereço.png)
