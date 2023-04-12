@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # CREATE EVENT
 
-In the "Event management" menu, select the event item.
+In the "Event management" menu, select the "Events".
 
 ![1](/img/novatelaevento.png)
 
