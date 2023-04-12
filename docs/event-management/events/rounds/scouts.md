@@ -8,7 +8,7 @@ The Scout tab is where a player's score for each round will be published. To acc
 
 ![1](/img/printevento.png)
 
-Selecting the CSGO Championship Event, the backoffice user simply clicks "Sliders" button on the right side of the Settings button.
+Selecting the CSGO Championship Event, the backoffice user simply clicks "Slider" icon on the right side of the "Settings" icon.
 
 ![1](/img/printround.png)
 

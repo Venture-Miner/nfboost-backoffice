@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # DELETE COMPETITOR
 
-To delete a competitor, the user must click trash icon next to the settings icon.
+To delete a competitor, the user must click "Trash" icon next to the "Settings" icon.
 
 ![1](/img/novatelaupdate.png)
 
