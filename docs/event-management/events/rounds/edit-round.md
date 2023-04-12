@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # UPDATE ROUND
 
-To update a round, in the events list, click "Sliders" icon next to the settings icon.
+To update a round, in the events list, click "Sliders" icon next to the "Settings" icon.
 
 ![1](/img/updatevent.png)
 

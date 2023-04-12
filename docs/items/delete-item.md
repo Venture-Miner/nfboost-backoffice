@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # DELETE ITEM
 
-To delete an item, the user must click trash icon next to the settings icon.
+To delete an item, the user must click "Trash" icon next to the "settings" icon.
 
 ![1](/img/criaritem.png)
 

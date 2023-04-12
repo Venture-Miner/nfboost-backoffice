@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # UPDATE SPORT
 
-To update a sport in the Event Management menu, click on the Settings icon next to the trash icon.
+To update a sport in the "Event Management" menu, click "Settings" icon next to the "Trash' icon.
 
 ![1](/img/novoesporte.png)
 

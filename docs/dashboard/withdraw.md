@@ -6,9 +6,9 @@ sidebar_position: 3
 
 A withdrawal from the Admin wallet is to perform a crypto transfer transaction from the admin platform to an external address.
 
-For this transaction it is possible to define the fee that will be paid, thus also defining the speed of the "Transactions".
+For this transaction it is possible to define the fee that will be paid, thus also defining the speed of the transactions.
 
-To withdraw, click on the button above the "Smart Contract" topic.
+To withdraw, click on the button above the "Smart Contract".
 
 ![1](/img/contractsmart.png)
 

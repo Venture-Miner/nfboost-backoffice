@@ -14,6 +14,6 @@ It is also possible to track the totals of services by the indicators:
 
 - Total Items: Displays the amount of items created on the platform.
 
-- Active events: Displays the number of active events registered on the platform.
+- Active Events: Displays the number of active events registered on the platform.
 
 ![1](/img/novateladashboard.png)
