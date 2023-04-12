@@ -12,6 +12,6 @@ The list of rounds that already exist in the event is displayed. To update a gro
 
 ![1](/img/criandogrupo.png)
 
-The list of groups for this event is displayed. To update a group, click "Settings" icon next to the "Sliders" icon.Change the group form and click "Update". The changed group is displayed in the list.
+The list of groups for this event is displayed. To update a group, click "Settings" icon next to the "Sliders" icon. Change the group form and click "Update". The changed group is displayed in the list.
 
 ![1](/img/atualizargrupo.png)
