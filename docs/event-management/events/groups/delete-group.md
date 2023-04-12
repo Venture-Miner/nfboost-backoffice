@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # DELETE GROUP
 
-To delete a group, the user must click trash icon next to the settings icon.
+To delete a group, the user must click "Trash" icon next to the "settings" icon.
 
 ![1](/img/novogrupo.png)
 

@@ -22,4 +22,4 @@ Fill in the new group form and click "Create". The new group appears in the list
 
 Attention to the status of the group, it is necessary to have the status "Enabled"
 
-![1](/img/adicionou grupo.png)
+![1](/img/adicionougrupo.png)

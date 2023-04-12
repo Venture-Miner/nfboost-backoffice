@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # CREATE ROUND
 
-To create a round in the event list, click sliders icon to the right of the settings button.
+To create a round in the event list, click "Sliders" icon to the right of the "Settings" button.
 
 ![1](/img/updatevent.png)
 
