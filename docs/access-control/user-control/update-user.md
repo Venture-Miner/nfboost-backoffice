@@ -4,11 +4,9 @@ sidebar_position: 2
 
 # UPDATE USER
 
-To update a user, access the "Access Control" menu.
+To update a user, select which user will be updated and click on the "Settings" icon next to the "Trash" icon.
 
 ![1](/img/accessuser.png)
-
-Select which user will be updated and click on the "Settings" icon next to the "Trash" icon.
 
 A modal will be displayed. This wall can be changed:
 

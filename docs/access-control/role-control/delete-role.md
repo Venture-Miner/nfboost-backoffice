@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # DELETE ROLE
 
-To delete a role in the backoffice, the user must click "Trash" icon next to the "Settings" icon.
+To delete a role, click "Trash" icon next to the "Settings" icon.
 
 ![1](/img/registernovarole.png)
 
