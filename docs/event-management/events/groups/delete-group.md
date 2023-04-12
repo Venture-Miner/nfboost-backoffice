@@ -4,20 +4,18 @@ sidebar_position: 3
 
 # DELETE GROUP
 
-To delete a group, in the event list, click icon that is highlighted.
+To delete a group, the user must click trash icon next to the settings icon.
 
-![1](/img/group-create-1.png)
+![1](/img/novogrupo.png)
 
-The list of rounds that already exist in the event is displayed, if there are no rounds the list returns empty.
-To delete a group click "Manage Group" button.
+The list of rounds that already exist in the event is displayed. To delete a group click "Manage Group" button.
 
-![1](/img/group-create-2.png)
+![1](/img/criandogrupo.png)
 
-The list of groups for this event is displayed, if there are no groups created, the list returns empty.
-To delete a group click on the icon that is highlighted.
+The list of groups for this event is displayed. To delete a group, click "Trash" icon next to the "Settings" icon.
 
-![1](/img/group-update-highlighted-2.png)
+![1](/img/addgrupo.png)
 
-Delete the group form and click "Confirm". The deleted group is removed from the list.
+A modal will be displayed with an alert message for the admin user. After confirmation, the group will be deleted.
 
-![1](/img/group-delete.PNG)
+![1](/img/apagargrupo.png)

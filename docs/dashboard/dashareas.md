@@ -16,6 +16,4 @@ It is also possible to track the totals of services by the indicators:
 
 - Active events: Displays the number of active events registered on the platform.
 
-Each NFT type is also displayed on the Dashboard to facilitate administration and making it possible to withdraw.
-
 ![1](/img/novateladashboard.png)

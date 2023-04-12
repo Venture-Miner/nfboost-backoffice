@@ -6,22 +6,20 @@ sidebar_position: 1
 
 Groups are created for sports that have game groups, such as football where each group defines a team.
 
-To create groups in the event list, click icon that is highlighted.
+To create groups in the event list, click "Sliders" icon next to the "Settings" icon.
 
-![1](/img/group-create-1.png)
+![1](/img/novogrupo.png)
 
-The list of rounds that already exist in the event is displayed, if there are no rounds, the list returns empty.
-To create a group click "Manage Group" button.
+The list of rounds that already exist in the event is displayed. To create a group click "Manage Group" button.
 
-![1](/img/group-create-2.png)
+![1](/img/criandogrupo.png)
 
-The list of groups for this event is displayed, if there are no groups created, the list returns empty.
-To create a group click "New Group"
+The list of groups for this event is displayed. To create a group click "New Group"
 
-![1](/img/groups-list.PNG)
+![1](/img/addgrupo.png)
 
 Fill in the new group form and click "Create". The new group appears in the list.
 
 Attention to the status of the group, it is necessary to have the status "Enabled"
 
-![1](/img/group-create-form.png)
+![1](/img/adicionou grupo.png)
