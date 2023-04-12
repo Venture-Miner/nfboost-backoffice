@@ -8,7 +8,7 @@ A withdrawal from the NFT smart contract is to perform a crypto transfer transac
 
 For this transaction it is possible to define the fee that will be paid, thus also defining the speed of the transaction.
 
-For the admin user to withdraw, they must click "Wallet" icon at the top of the screen and then transactions.
+For the admin user to withdraw, they must click "Wallet" button at the top of the screen and then transactions.
 
 ![1](/img/novatelasmart.png)
 
