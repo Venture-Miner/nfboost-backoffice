@@ -4,20 +4,14 @@ sidebar_position: 2
 
 # UPDATE GROUP
 
-To update a group, in the event list, click icon that is highlighted.
+To update create groups in the event list, click "Sliders" icon next to the "Settings" icon.
 
-![1](/img/group-create-1.png)
+![1](/img/novogrupo.png)
 
-The list of rounds that already exist in the event is displayed, if there are no rounds, the list returns empty.
-To update a group click on the "Manage Group" button.
+The list of rounds that already exist in the event is displayed. To update a group click on the "Manage Group" button.
 
-![1](/img/group-create-2.png)
+![1](/img/criandogrupo.png)
 
-The list of groups for this event is displayed, if there are no groups created, the list returns empty.
-To update a group click icon that is highlighted.
+The list of groups for this event is displayed. To update a group, click "Settings" icon next to the "Sliders" icon.Change the group form and click "Update". The changed group is displayed in the list.
 
-![1](/img/group-update-highlighted.png)
-
-Change the group form and click "Update". The changed group is displayed in the list.
-
-![1](/img/group-update.PNG)
+![1](/img/atualizargrupo.png)

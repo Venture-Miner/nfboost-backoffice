@@ -8,15 +8,15 @@ A withdrawal from the Admin wallet is to perform a crypto transfer transaction f
 
 For this transaction it is possible to define the fee that will be paid, thus also defining the speed of the transaction.
 
-To withdraw, click on the button above the "Smart Contract" topic
+To withdraw, click on the button above the "Smart Contract" topic.
 
 ![1](/img/contractsmart.png)
 
 Set the fields:
 
-- Address to: the address to which the value will be sent
+- Address to: the address to which the value will be sent.
 
-- Amount: the amount of MATIC
+- Amount: the amount of MATIC.
 
 - Priority: the fee that will be paid to carry out the transaction.
 
