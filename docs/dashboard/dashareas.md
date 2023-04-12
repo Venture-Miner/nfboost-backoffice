@@ -18,4 +18,4 @@ It is also possible to track the totals of services by the indicators:
 
 Each NFT type is also displayed on the Dashboard to facilitate administration and making it possible to withdraw.
 
-![1](/img/dashboard-1.png)
+![1](/img/novateladashboard.png)
