@@ -18,3 +18,4 @@ By clicking on the settings icon next to the trash icon, a modal will be display
 - Status for active or inactive
 
 [1](/img/competidoratualizar.png)
+
