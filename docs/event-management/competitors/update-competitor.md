@@ -17,5 +17,5 @@ By clicking on the settings icon next to the trash icon, a modal will be display
 - ID
 - Status for active or inactive
 
-[1](/img/competidoratualizar.png)
+[1](/img/editandocompetidor.png)
 
