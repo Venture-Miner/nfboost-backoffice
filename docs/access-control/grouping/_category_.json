@@ -1,6 +1,6 @@
 {
-  "label": "PLAYER",
-  "position": 3 ,
+  "label": "SPORT GROUPING",
+  "position": 4 ,
   "link": {
     "type": "generated-index",
   }
