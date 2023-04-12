@@ -4,10 +4,10 @@ sidebar_position: 3
 
 # DELETE SPORT
 
-To delete a sport in the menu Event Management, click item that is highlighted.
+To delete a sport in the Event Management menu, click trash can next to the settings icon
 
-The list of sports that already exist is displayed, if there are no sports, the list returns empty.
-To delete a sport click item that is highlighted.
+![1](/img/novoesporte.png)
 
-Delete the sports form and click "Confirm". The deleted sport is removed from the list.
+The list of sports that already exist is displayed. A modal will be displayed with an alert message for the admin user. After confirmation, the sport will be deleted.
 
+![1](/img/apagaresporte.png)
