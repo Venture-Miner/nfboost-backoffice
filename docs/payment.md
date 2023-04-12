@@ -1,5 +1,5 @@
 ---
-sidebar_positon: 6
+sidebar_positon: 7
 ---
 
 # MANAGE PAYMENT
