@@ -4,10 +4,10 @@ sidebar_position: 2
 
 # UPDATE SPORT
 
-To update a sport in the menu Event Management, click item that is highlighted.
+To update a sport in the Event Management menu, click on the Settings icon next to the trash icon.
 
-The list of sports that already exist is displayed, if there are no sports, the list returns empty.
+![1](/img/novoesporte.png)
 
-To update a sport click item that is highlighted.
+The list of sports that already exist is displayed. Update the sports form and click "Update". The updated sport appears in the list.
 
-Update the sports form and click "Update". The updated sport appears in the list.
+![1](/img/atualizaresporte.png)
