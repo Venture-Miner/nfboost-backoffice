@@ -2,6 +2,8 @@
 sidebar_position: 5
 ---
 
+# NFTs
+
 ## REGISTER NFT
 
 ## UPDATE NFT
