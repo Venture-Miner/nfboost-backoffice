@@ -6,12 +6,8 @@ sidebar_position: 1
 
 In the "Event management" menu, select the event item.
 
-![1](/img/menu-event.PNG)
+![1](/img/novatelaevento.png)
 
-The events page displays the list of events already logged. To create a new event, click "New Event" button.
+The events page displays the list of events already logged. To create a new event, click "New Event" button. A form to create the event opens. It is necessary to fill in all the fields.
 
-![1](/img/list-create-event.png)
-
-A form to create the event opens. It is necessary to fill in all the fields.
-
-![1](/img/create-event-modal.PNG)
+![1](/img/criarnovoevento.png)
