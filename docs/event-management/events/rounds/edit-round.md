@@ -8,8 +8,7 @@ To update a round, in the events list, click sliders icon next to the settings i
 
 ![1](/img/updatevent.png)
 
-The list of rounds that already exist in the event is displayed, if there are no rounds the list returns empty.
-To update a round, click settings icon next to the sliders icon.
+The list of rounds that already exist in the event is displayed. To update a round, click settings icon next to the sliders icon.
 
 ![1](/img/novoround.png)
 

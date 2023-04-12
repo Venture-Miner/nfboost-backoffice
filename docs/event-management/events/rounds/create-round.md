@@ -4,12 +4,11 @@ sidebar_position: 1
 
 # CREATE ROUND
 
-To create a round in the event list, click on the sliders icon to the right of the settings button
+To create a round in the event list, click sliders icon to the right of the settings button.
 
 ![1](/img/updatevent.png)
 
-The list of rounds that already exist in the event is displayed, if there are no rounds the list returns empty.
-To create a round click on the "New Round" button.
+The list of rounds that already exist in the event is displayed. To create a round click on the "New Round" button.
 
 ![1](/img/novoround.png)
 
