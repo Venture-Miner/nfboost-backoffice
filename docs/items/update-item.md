@@ -8,6 +8,6 @@ To update an item, the admin user must select the item that has already been reg
 
 ![1](/img/criaritem.png)
 
-When clicking settings icon next to the trash can icon, a modal will be displayed where the user can change all fields with the information present.
+When clicking "settings" icon next to the "trash" icon, a modal will be displayed where the user can change all fields with the information present.
 
 ![1](/img/atualizaritem.png)

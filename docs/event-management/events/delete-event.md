@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # DELETE EVENT
 
-To delete an already registered event, in the list of events click "Trash" icon next to the settings button.
+To delete an already registered event, in the list of events click "Trash" icon next to the "Settings" icon.
 
 ![1](/img/updatevent.png)
 

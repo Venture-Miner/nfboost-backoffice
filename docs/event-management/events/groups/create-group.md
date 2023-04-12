@@ -20,6 +20,6 @@ The list of groups for this event is displayed. To create a group click "New Gro
 
 Fill in the new group form and click "Create". The new group appears in the list.
 
-Attention to the status of the group, it is necessary to have the status "Enabled"
+Attention to the status of the group, it is necessary to have the status "Enabled".
 
 ![1](/img/adicionougrupo.png)

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # DELETE SPORT
 
-To delete a sport in the Event Management menu, click trash can next to the settings icon
+To delete a sport in the "Event Management" menu, click "Trash' icon next to the "Settings" icon.
 
 ![1](/img/novoesporte.png)
 
