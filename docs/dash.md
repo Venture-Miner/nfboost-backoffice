@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# DASHBOARD AREAS
+# DASHBOARD
 
 As we use NFT and blockchain technology to facilitate the visualization of the balance and address, the admin user has this information in the Dashboard.
 
