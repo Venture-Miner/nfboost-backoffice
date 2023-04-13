@@ -11,4 +11,4 @@ To update the ticket, just click "Edit" button. After that, a modal will be disp
 - Quantity
 - Bonus
 
-img
+![1](/img/editarpreço.png)
