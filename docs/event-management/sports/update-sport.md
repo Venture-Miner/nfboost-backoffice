@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # UPDATE SPORT
 
-To update a sport, click "Settings" icon next to the "Trash' icon.
+To update a sport, click "Settings" icon next to the "Trash" icon.
 
 ![1](/img/esporte.png)
 
