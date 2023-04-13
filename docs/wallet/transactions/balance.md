@@ -10,7 +10,7 @@ For this transaction it is possible to define the fee that will be paid, thus al
 
 To withdraw, click on the button above the "Smart Contract".
 
-![1](/img/contractsmart.png)
+![1](./../assets/contractsmart.png)
 
 Set the fields:
 
@@ -20,4 +20,4 @@ Set the fields:
 
 - Priority: the fee that will be paid to carry out the transaction.
 
-![1](/img/endereço.png)
+![1](./../assets/endereço.png)

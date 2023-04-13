@@ -6,7 +6,7 @@ sidebar_position: 2
 
 By clicking  "Manage Prices", the administrator user will be redirected to the "Prices" screen where the values and quantities of each ticket package will be displayed.
 
-![1](/img/)
+![1](./../assets/)
 
 To update the ticket, just click "Edit" button. After that, a modal will be displayed, where information such as:
 
@@ -15,4 +15,4 @@ To update the ticket, just click "Edit" button. After that, a modal will be disp
 - Quantity
 - Bonus
 
-![1](/img/updateingresso.png)
+![1](./../assets/updateingresso.png)
