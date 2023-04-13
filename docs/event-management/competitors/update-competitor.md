@@ -6,7 +6,7 @@ sidebar_position: 3
 
 To update a competitor, the admin user must select the competitor that has already been registered to do the update.
 
-img
+![1](/img/competidores.png)
 
 By clicking on the settings icon next to the trash icon, a modal will be displayed where the user can change:
 
@@ -17,4 +17,6 @@ By clicking on the settings icon next to the trash icon, a modal will be display
 - ID
 - Status for active or inactive
 
-img
+![1](/img/updatecompetidor.png)
+
+After updates are made, click "Update" and the competitor information will be updated.
