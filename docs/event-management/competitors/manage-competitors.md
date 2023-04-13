@@ -6,4 +6,4 @@ sidebar_position: 1
 
 By clicking on the "Event Management" option and selecting the "Competitors" option, the screen with all competitors registered in the NFboost Backoffice will be displayed.
 
-![1](/img/printcompetidor.png)
+![1](./../assets/printcompetidor.png)
