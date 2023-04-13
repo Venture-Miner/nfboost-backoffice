@@ -16,4 +16,4 @@ It is also possible to track the totals of services by the indicators:
 
 - Active Events: Displays the number of active events registered on the platform.
 
-img
+![1](/img/dashboard.png)
