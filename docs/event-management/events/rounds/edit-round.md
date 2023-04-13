@@ -6,13 +6,13 @@ sidebar_position: 2
 
 To update a round, in the events list, click "Sliders" icon next to the "Settings" icon.
 
-![1](./../assets/updatevent.png)
+![1](/imagens/updatevent.png)
 
 The list of rounds that already exist in the event is displayed. To update a round, click "Settings" icon next to the "Sliders" icon.
 
-![1](./../assets/novoround.png)
+![1](/imagens/novoround.png)
 
 Change the round form and click "Update". The changed group is displayed in the list.
 
-![1](./../assets/novoeditround.png)
+![1](/imagens/novoeditround.png)
 

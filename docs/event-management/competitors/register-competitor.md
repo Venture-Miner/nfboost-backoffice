@@ -6,7 +6,7 @@ sidebar_position: 2
 
 To register a new competitor, the user must click on "New Competitor". This button, present on the right side of the screen next to the "Search" button.
 
-![1](./../assets/printcompetidor.png)
+![1](/imagens/assets/printcompetidor.png)
 
 On the Create Competitor modal, the Backoffice User will be able to choose:
 
@@ -17,6 +17,6 @@ On the Create Competitor modal, the Backoffice User will be able to choose:
 - ID
 - Status for active or inactive
 
-![1](./../assets/criarcompetidor.png)
+![1](/imagens/assets/criarcompetidor.png)
 
 After these steps, the new competitor will be registered.
