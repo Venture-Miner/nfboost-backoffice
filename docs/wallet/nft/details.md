@@ -12,7 +12,7 @@ On the NFT screen, click on the "Settings" icon next to the "Trash" icon.
 
 A "NFT Update" screen will be displayed and just below a "Manage NFT" modal.
 
-![1](/img/nftdetalhes)
+![1](/img/nftdetalhes.png)
 
 In the "Manage NFT" modal, some information needs to be filled in:
 
