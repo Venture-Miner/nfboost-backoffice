@@ -6,12 +6,12 @@ sidebar_position: 1
 
 To create a round in the event list, click "Sliders" icon to the right of the "Settings" icon.
 
-img
+![1](/img/evento.png)
 
 The list of rounds that already exist in the event is displayed. To create a round click on the "New Round" button.
 
-img
+![1](/img/novoround.png)
 
 Fill in the round form, and click "Register". The round is displayed in the list.
 
-img
+![1](/img/registraround.png)
