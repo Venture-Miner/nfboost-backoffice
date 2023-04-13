@@ -1,6 +1,6 @@
 {
-  "label": "MANAGE GROUPS",
-  "position": 6 ,
+  "label": "DASHBOARD",
+  "position": 3 ,
   "link": {
     "type": "generated-index",
   }

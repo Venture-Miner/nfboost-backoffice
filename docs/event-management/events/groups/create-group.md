@@ -19,5 +19,3 @@ The list of groups for this event is displayed. To create a group click "New Gro
 ![1](/img/novogrupo.png)
 
 Fill in the new group form and click "Create". The new group appears in the list.
-
-Attention to the status of the group, it is necessary to have the status "Enabled".
