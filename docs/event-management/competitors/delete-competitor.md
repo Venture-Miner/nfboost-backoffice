@@ -6,8 +6,8 @@ sidebar_position: 4
 
 To delete a competitor, the user must click "Trash" icon next to the "Settings" icon.
 
-img
+![1](/img/competidores.png)
 
 A modal will be displayed with an alert message for the admin user. After confirmation, the competitor will be deleted.
 
-img
+![1](/img/apagarcompetidor.png)
