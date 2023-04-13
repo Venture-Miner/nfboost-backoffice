@@ -11,6 +11,6 @@ To create an NFT, the user must click on "New NFT". A modal will be displayed wi
 - Score Boost
 - Value
 
-![1](/imagens/novonft.png)
+img
 
 After filling in this information, click "Register" and the NFT will be registered.
