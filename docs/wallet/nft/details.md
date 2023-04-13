@@ -8,11 +8,11 @@ After registering the NFT, the user must fill in some details so that the NFT ca
 
 On the NFT screen, click on the "Settings" icon next to the "Trash" icon.
 
-![1](/imagens/telanft.png)
+img
 
 A "NFT Update" screen will be displayed and just below a "Manage NFT" modal.
 
-![1](/imagens/managenftnovo.png)
+img
 
 In the "Manage NFT" modal, some information needs to be filled in:
 
@@ -26,4 +26,4 @@ In the "Manage NFT" modal, some information needs to be filled in:
 
 - BURN: After doing the Recall, the NFTs may or may not Burn. This means NFTs will be destroyed. After that, the user will be able to delete the NFT.
 
-![1](/imagens/definirdetalhes.png)
+img
