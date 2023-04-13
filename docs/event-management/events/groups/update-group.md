@@ -8,6 +8,8 @@ To update groups in the event list, click "Settings" icon next to the "Sliders" 
 
 ![1](/img/managegroup.png)
 
-Change the group form and click "Update". The changed group is displayed in the list.
+Change the group form and click "Update".
 
 ![1](/img/updategrupo.png)
+
+The changed group is displayed in the list.
