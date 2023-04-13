@@ -6,8 +6,8 @@ sidebar_position: 3
 
 To delete an already registered event, in the list of events click "Trash" icon next to the "Settings" icon.
 
-![1](./../assets/updatevent.png)
+![1](/imagens/updatevent.png)
 
 To delete a logged event it is necessary to confirm the action to delete the event.
 
-![1](./../assets/deletarevent.png)
+![1](/imagens/deletarevent.png)

@@ -6,8 +6,8 @@ sidebar_position: 2
 
 To edit an already registered event, in the list of events click "Settings" icon next to the right of the "Sliders" icon.
 
-![1](./../assets/updatevent.png)
+![1](/imagens/updatevent.png)
 
 The event form will be displayed and after the change, click "Update" button to save the changes.
 
-![1](./../assets/novoeditevento.png)
+![1](/imagens/novoeditevento.png)
