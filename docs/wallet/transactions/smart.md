@@ -10,8 +10,8 @@ For this transaction it is possible to define the fee that will be paid, thus al
 
 For the admin user to withdraw, they must click "Wallet" button at the top of the screen and then transactions.
 
-![1](/img/novatelasmart.png)
+img
 
 After that, within the "Smart Contract", the user must click "Withdraw" and the modal will be displayed to fill in the information necessary to complete the transaction.
 
-![1](/img/saque.png)
+img

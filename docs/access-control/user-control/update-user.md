@@ -6,7 +6,7 @@ sidebar_position: 2
 
 To update a user, select which user will be updated and click on the "Settings" icon next to the "Trash" icon.
 
-![1](/img/accessuser.png)
+img
 
 A modal will be displayed. This wall can be changed:
 
