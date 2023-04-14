@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # CREATE EVENT
 
-In the "Event management" menu, select the "Events".
+In the "Event Management" menu, select the "Events" option.
 
 ![1](/img/evento.png)
 

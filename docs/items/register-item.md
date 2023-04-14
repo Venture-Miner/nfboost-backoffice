@@ -8,7 +8,7 @@ To register an item, the administrator user must access the "Item" menu at the t
 
 ![1](/img/item.png)
 
-The events page displays the list of items already logged. To create a new iten, click "New Item" button. A form to create the item opens. All fields must be filled in with information such as:
+The events page displays the list of items already logged. To create a new item, click "New Item" button. A form to create the item opens. All fields must be filled in with information such as:
 
 - Item name
 - Permanence, this means the amount of rounds the item will last
