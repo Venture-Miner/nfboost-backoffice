@@ -6,7 +6,7 @@ sidebar_position: 4
 
 After registering the NFT, the user must fill in some details so that the NFT can be sold on the platform.
 
-On the NFT screen, click on the "Settings" icon next to the "Trash" icon.
+On the NFT screen, click "Settings" icon next to the "Trash" icon.
 
 ![1](/img/nft.png)
 
