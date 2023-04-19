@@ -12,4 +12,4 @@ The list of users already registered to access the platform is displayed. To reg
 
 Fill in the required information. It is very important not to forget to choose the role(s) for the new user. Defining roles allows the user to have platform-specific or even full control.
 
-![1](/img/registeruser.png)
+![1](/img/novatelaregister.png)

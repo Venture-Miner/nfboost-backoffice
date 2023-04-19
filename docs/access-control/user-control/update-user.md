@@ -8,7 +8,9 @@ To update a user, select which user will be updated and click on the "Settings" 
 
 ![1](/img/user.png)
 
-A modal will be displayed. This wall can be changed:
+A modal will be displayed. This modal can be changed:
 
 - Name
+- Email
+- Password
 - Add or remove a role
