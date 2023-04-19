@@ -6,7 +6,7 @@ sidebar_position: 2
 
 In the "Wallet" top menu and selecting the "Transactions" option, a screen will be displayed with all information of the Address, Balance and Smart Contract.
 
-![1](/img/transação.png)
+![1](/img/novatelatrans.png)
 
 
 ## ADDRESS
@@ -21,7 +21,7 @@ Address is the wallet address to copy and paste into other directories for trans
 A withdrawal from the Admin wallet is to perform a crypto transfer transaction from the admin platform to an external address.
 For this transaction it is possible to define the fee that will be paid, thus also defining the speed of the transactions.
 
-![1](/img/balance.png)
+![1](/img/novatelabalance.png)
 
 To withdraw, click button "Withdraw"
 
@@ -42,7 +42,7 @@ It is possible to make a deposit to the account, just click on the "Deposit" but
 
 A withdrawal from the NFT smart contract is to perform a crypto transfer transaction from the administration platform to an external address. For this transaction it is possible to define the fee that will be paid, thus also defining the speed of the transaction.
 
-![1](/img/smart.png)
+![1](/img/novatelasmart.png)
 
 After that, within the "Smart Contract", the user must click "Withdraw" and the modal will be displayed to fill in the information necessary to complete the transaction.
 
